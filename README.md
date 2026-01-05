@@ -18,8 +18,8 @@ I'm fascinated by **GPU programming**, **High-Performance Computing**, **Linux**
 GPU parallel implementations of **NAS Parallel Benchmarks (NPB)** across multiple APIs (**CUDA, HIP, GSParLib, OpenCL**) targeting **NVIDIA/AMD/Intel** GPUs.  
 ➡️ https://github.com/GMAP/NPB-GPU
 
-### **GSParLib Programming API**
-A **single-source C++ parallelism library** designed for HPC and **code portability** across different GPU vendors (NVIDIA/AMD/Intel).  
+### **GSParLib – GPU Programming Library (C++)**
+A **single-source C++ parallelism library** designed for **HPC** and **code portability** across different GPU vendors (NVIDIA/AMD/Intel).  
 ➡️ https://github.com/GMAP/GSParLib
 
 ### **NPB-CPP Benchmark Suite**
