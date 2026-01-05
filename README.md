@@ -17,7 +17,7 @@ I'm fascinated by **GPU programming**, **High-Performance Computing**, **Linux**
 GPU parallel implementations of **NAS Parallel Benchmarks (NPB)** across multiple APIs (**CUDA, HIP, OpenCL, and GSParLib**) and GPU vendors (**NVIDIA, AMD, and Intel**).
 
 **My contributions:**
-- Ported NPB applications to CUDA, HIP, GSParLib, and OpenCL
+- Ported NPB applications to CUDA, HIP, OpenCL, and GSParLib
 
 ➡️ https://github.com/GMAP/NPB-GPU
 
@@ -28,7 +28,7 @@ A high-performance, cross-vendor, single-source C++ parallelism library for GPUs
 - Implemented HIP backend support
 - Implemented cross-vendor GPU portability (NVIDIA, AMD, and Intel)
 - Implemented performance optimizations and new features
- 
+
 ➡️ https://github.com/GMAP/GSParLib
 
 ### **NPB-CPP Benchmark Suite**
@@ -44,7 +44,7 @@ C++ port of the NAS Parallel Benchmarks for multi-core performance evaluation (e
 ## 🧰 Linux Mint Tooling
 
 ### **Xed Extra Plugins**
-A practical collection of productivity plugins for **Xed (Linux Mint)**
+A practical collection of productivity plugins for **Xed (Linux Mint)**.
 
 **My contributions:**
 - Author and maintainer of the full plugin suite
@@ -56,7 +56,7 @@ A Cinnamon extension that switches wallpapers depending on window visibility.
 
 **My contributions:**
 - Author and maintainer of the extension
- 
+
 ➡️ https://github.com/gabriellaraujocoding/cinnamon-window-aware-wallpaper
 
 ---
@@ -77,4 +77,4 @@ A Cinnamon extension that switches wallpapers depending on window visibility.
 - Remote opportunities in **GPU programming and HPC**
 - Research collaborations and open-source contributions
 
-📫 Feel free to reach out on **LinkedIn** or via email: **gabriellaraujocoding@gmail.com**
+📫 Feel free to reach out on **LinkedIn** or via email: [**gabriellaraujocoding@gmail.com**](mailto:gabriellaraujocoding@gmail.com)
