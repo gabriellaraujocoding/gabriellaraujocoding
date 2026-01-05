@@ -77,5 +77,4 @@ A Cinnamon extension that switches wallpapers depending on window visibility.
 - Remote opportunities in **GPU programming and HPC**
 - Research collaborations and open-source contributions
 
-📫 Feel free to reach out on **LinkedIn** or [✉️ **email me**](mailto:gabriellaraujocoding@gmail.com).
-
+📫 Feel free to reach out on **LinkedIn**.
