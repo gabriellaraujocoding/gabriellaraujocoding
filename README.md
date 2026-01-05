@@ -5,7 +5,6 @@ I'm fascinated by **GPU programming**, **High-Performance Computing**, **Linux**
 - ⚡ GPU programming + High-Performance Computing (HPC) across NVIDIA/AMD/Intel
 - 🧩 Open source contributor and maintainer
 - 🏆 Peer-reviewed publications + awards
-- 📚 Teaching support and tutoring in core Computer Science topics
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriellaraujocoding-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriellaraujocoding/)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--8179--2318-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8179-2318)
