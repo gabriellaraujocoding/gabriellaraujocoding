@@ -19,7 +19,7 @@ GPU parallel implementations of **NAS Parallel Benchmarks (NPB)** across multipl
 ➡️ https://github.com/GMAP/NPB-GPU
 
 ### **GSParLib Programming API**
-A **single-source C++ parallelism library** designed for HPC and **code portability** across GPU vendors (NVIDIA/AMD/Intel).  
+A **single-source C++ parallelism library** designed for HPC and **code portability** across different GPU vendors (NVIDIA/AMD/Intel).  
 ➡️ https://github.com/GMAP/GSParLib
 
 ### **NPB-CPP Benchmark Suite**
