@@ -2,7 +2,7 @@
 I'm fascinated by **GPU programming**, **High-Performance Computing**, **Linux**, and **Open Source**! 🚀
 
 - 🎓 PhD candidate in Computer Science (final year)
-- ⚡ GPU programming + High-Performance Computing (HPC) across NVIDIA/AMD/Intel
+- ⚡ GPU programming + High-Performance Computing (HPC)
 - 🧩 Open source contributor and maintainer
 - 🏆 Peer-reviewed publications + awards
 
@@ -14,23 +14,29 @@ I'm fascinated by **GPU programming**, **High-Performance Computing**, **Linux**
 ## 🔥 Featured Projects (GPU & HPC)
 
 ### **NPB-GPU Benchmark Suite**
-GPU parallel implementations of **NAS Parallel Benchmarks (NPB)** across multiple APIs (**CUDA, HIP, GSParLib, OpenCL**) targeting **NVIDIA/AMD/Intel** GPUs.  
+GPU parallel implementations of **NAS Parallel Benchmarks (NPB)** across multiple APIs (**CUDA, HIP, OpenCL, and GSParLib**) and GPU vendors (**NVIDIA, AMD, and Intel**).
+
 **My contributions:**
-- Ported NPB applications to CUDA, HIP, GSParLib, and OpenCL  
+- Ported NPB applications to CUDA, HIP, GSParLib, and OpenCL
+
 ➡️ https://github.com/GMAP/NPB-GPU
 
 ### **GSParLib – GPU Programming Library (C++)**
-A high-performance, cross-vendor, single-source C++ parallelism library for GPUs.  
+A high-performance, cross-vendor, single-source C++ parallelism library for GPUs.
+
 **My contributions:**
 - Implemented HIP backend support
-- Implemented cross-vendor GPU portability (NVIDIA/AMD/Intel)
-- Implemented performance optimizations and new features  
+- Implemented cross-vendor GPU portability (NVIDIA, AMD, and Intel)
+- Implemented performance optimizations and new features
+ 
 ➡️ https://github.com/GMAP/GSParLib
 
 ### **NPB-CPP Benchmark Suite**
-C++ port of the NAS Parallel Benchmarks for multi-core performance evaluation (e.g., **OpenMP, FastFlow, TBB**).  
+C++ port of the NAS Parallel Benchmarks for multi-core performance evaluation (e.g., **OpenMP, FastFlow, and TBB**).
+
 **My contributions:**
-- Ported the original Fortran codebase to C++  
+- Ported the original Fortran codebase to C++
+
 ➡️ https://github.com/GMAP/NPB-CPP
 
 ---
@@ -38,15 +44,19 @@ C++ port of the NAS Parallel Benchmarks for multi-core performance evaluation (e
 ## 🧰 Linux Mint Tooling
 
 ### **Xed Extra Plugins**
-A practical collection of productivity plugins for **Xed (Linux Mint)**.  
+A practical collection of productivity plugins for **Xed (Linux Mint)**
+
 **My contributions:**
-- Author and maintainer of the full plugin suite  
+- Author and maintainer of the full plugin suite
+
 ➡️ https://github.com/gabriellaraujocoding/xed-extra-plugins
 
 ### **Cinnamon Window Aware Wallpaper**
-A Cinnamon extension that switches wallpapers depending on window visibility.  
+A Cinnamon extension that switches wallpapers depending on window visibility.
+
 **My contributions:**
-- Author and maintainer of the extension  
+- Author and maintainer of the extension
+ 
 ➡️ https://github.com/gabriellaraujocoding/cinnamon-window-aware-wallpaper
 
 ---
@@ -64,7 +74,7 @@ A Cinnamon extension that switches wallpapers depending on window visibility.
 ---
 
 ## 🤝 Open to
-- Remote opportunities in **HPC / GPU programming**
+- Remote opportunities in **GPU programming and HPC**
 - Research collaborations and open-source contributions
 
-📫 Feel free to reach out on **LinkedIn**.
+📫 Feel free to reach out on **LinkedIn** or via email: **gabriellaraujocoding@gmail.com**
