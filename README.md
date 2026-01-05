@@ -16,14 +16,22 @@ I'm fascinated by **GPU programming**, **High-Performance Computing**, **Linux**
 
 ### **NPB-GPU Benchmark Suite**
 GPU parallel implementations of **NAS Parallel Benchmarks (NPB)** across multiple APIs (**CUDA, HIP, GSParLib, OpenCL**) targeting **NVIDIA/AMD/Intel** GPUs.  
+**My contributions:**
+- Ported NPB applications to CUDA, HIP, GSParLib, and OpenCL  
 ➡️ https://github.com/GMAP/NPB-GPU
 
 ### **GSParLib – GPU Programming Library (C++)**
-A **single-source C++ parallelism library** designed for **HPC** and **code portability** across different GPU vendors (NVIDIA/AMD/Intel).  
+A high-performance, cross-vendor, single-source C++ parallelism library for GPUs.  
+**My contributions:**
+- Implemented HIP backend support
+- Implemented cross-vendor GPU portability (NVIDIA/AMD/Intel)
+- Implemented performance optimizations and new features  
 ➡️ https://github.com/GMAP/GSParLib
 
 ### **NPB-CPP Benchmark Suite**
 C++ port of the NAS Parallel Benchmarks for multi-core performance evaluation (e.g., **OpenMP, FastFlow, TBB**).  
+**My contributions:**
+- Ported the original Fortran codebase to C++  
 ➡️ https://github.com/GMAP/NPB-CPP
 
 ---
@@ -32,10 +40,14 @@ C++ port of the NAS Parallel Benchmarks for multi-core performance evaluation (e
 
 ### **Xed Extra Plugins**
 A practical collection of productivity plugins for **Xed (Linux Mint)**.  
+**My contributions:**
+- Author and maintainer of the full plugin suite  
 ➡️ https://github.com/gabriellaraujocoding/xed-extra-plugins
 
 ### **Cinnamon Window Aware Wallpaper**
-Cinnamon extension that switches wallpapers depending on window visibility.  
+A Cinnamon extension that switches wallpapers depending on window visibility.  
+**My contributions:**
+- Author and maintainer of the extension  
 ➡️ https://github.com/gabriellaraujocoding/cinnamon-window-aware-wallpaper
 
 ---
